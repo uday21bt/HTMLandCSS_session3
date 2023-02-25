@@ -1,0 +1,85 @@
+body {
+    
+
+}
+
+
+
+.container {
+
+            width: 1400px;
+            margin: auto;
+            
+}
+
+img {
+     
+     width: 100px;
+     margin-left:150px;
+
+
+
+}
+
+h1 {
+    text-align: center;
+    background-color: rebeccapurple
+
+
+}
+
+.row {
+      display: flex;
+      
+}
+
+.box1 {
+    background-color: aquamarine;
+    width: 30%;
+    margin: auto;
+
+}
+.box2 img {
+            width: 50%;
+            
+            background-color: aqua;
+        
+
+}
+
+.box3 {
+
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+.example2 {
+
+           background-color: chartreuse;
+}
+
+.container2 {
+             
+             width: 1400px;
+             margin: auto;
+             border: 10px darkblue double;
+             margin-top: 100px;
+             margin-bottom: 100px;
+             
+            
+
+
+}
+
+
+
+
+
+
+
+
+
+ 
